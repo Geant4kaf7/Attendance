@@ -1,1 +1,0 @@
- nohup ./GammaCube --flux-type Uniform --flux-dir point_beam --source-r 42 --source-z 0 --theta 90 --phi 0 --veto-threshold 0.28 --crystal-threshold 0.15 -csc 12-rhombus -oct 277 -ovt 22 -obvt 496 -vtr 7 --use-optics -i ../run.mac &
